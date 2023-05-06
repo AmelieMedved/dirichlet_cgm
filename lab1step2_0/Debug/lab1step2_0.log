@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Временное хранилище\Repository\lab1step2_0\lab1step2_0\Source.cpp(358,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Временное хранилище\Repository\lab1step2_0\lab1step2_0\Source.cpp(358,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Временное хранилище\Repository\lab1step2_0\lab1step2_0\Source.cpp(359,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Временное хранилище\Repository\lab1step2_0\lab1step2_0\Source.cpp(359,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  lab1step2_0.vcxproj -> E:\Временное хранилище\Repository\lab1step2_0\Debug\lab1step2_0.exe

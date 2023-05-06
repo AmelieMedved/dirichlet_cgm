@@ -1,0 +1,24 @@
+﻿  M1M2.cpp
+  _main.cpp
+C:\Users\manuk\source\repos\lab1step2_0\lab1step2_0\_main.cpp(1220,177): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\manuk\source\repos\lab1step2_0\lab1step2_0\_main.cpp(1220,205): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\manuk\source\repos\lab1step2_0\lab1step2_0\_main.cpp(1240,239): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\manuk\source\repos\lab1step2_0\lab1step2_0\_main.cpp(1240,267): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Generating Code...
+  lab1step2_0.vcxproj -> C:\Users\manuk\source\repos\lab1step2_0\x64\Debug\lab1step2_0.exe
